@@ -1,22 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanoo Sree Krosuru</h1>
 <h3 align="center">🚀 Computer Science Engineer | Full Stack Developer | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanoosree2006&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanoo-sree-krosuru-137066291/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://ktsportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:tanoosreekrosuru@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 💫 About Me
@@ -34,6 +18,22 @@
 - ⚡ Always learning, building, and improving
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanoosree2006&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanoo-sree-krosuru-137066291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://ktsportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:tanoosreekrosuru@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ## 🌐 Coding Profiles
 
@@ -109,16 +109,7 @@
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-### 💭 Personal Motto
-
-> "Code with purpose, learn with curiosity, and build with passion."
-
-🚀 Turning ideas into impactful solutions, one commit at a time.
-
----
-
-⭐ Always Learning • Always Building • Always Improving
