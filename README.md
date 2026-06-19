@@ -102,9 +102,6 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Tanoosree2006&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tanoosree2006&theme=radical&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanoosree2006&theme=radical&hide_border=true&layout=compact)
 
@@ -116,11 +113,6 @@
 
 ---
 
-### 💭 Personal Motto
-
-> "Code with purpose, learn with curiosity, and build with passion."
-
-🚀 Turning ideas into impactful solutions, one commit at a time.
 
 ---
 
@@ -128,4 +120,3 @@
   <img src="https://komarev.com/ghpvc/?username=Tanoosree2006&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-⭐ Always Learning • Always Building • Always Improving
