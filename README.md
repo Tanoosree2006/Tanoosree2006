@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tanoo Sree Krosuru</h1>
 <h3 align="center">🚀 Computer Science Engineer | Full Stack Developer | Problem Solver</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanoo-sree-krosuru-137066291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://ktsportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  
+  <a href="https://drive.google.com/file/d/1nhVX3dpjrF1BJWVq0UHNCO5Gq_hxRA4C/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 💫 About Me
@@ -9,31 +23,15 @@
 🏆 CGPA: 9.3  
 💻 Full Stack Development Enthusiast  
 📱 Web & Mobile Application Developer  
-🧠 Strong Foundation in DSA, OOP, DBMS, Operating Systems & Computer Networks  
+🧠 Strong Foundation in Data Structures, Algorithms, OOP, DBMS, Operating Systems & Computer Networks  
 🔍 Passionate about Problem Solving and Continuous Learning  
 
-- 🌱 Currently learning **Advanced React, React Native & System Design**
-- 🚀 Building impactful web and mobile applications
-- 💡 Love turning ideas into scalable and user-friendly solutions
-- ⚡ Always learning, building, and improving
+🌱 Currently learning **Advanced React, React Native & System Design**  
+🚀 Building impactful web and mobile applications  
+💡 Love turning ideas into scalable and user-friendly solutions  
+⚡ Always learning, building, and improving
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanoosree2006&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanoo-sree-krosuru-137066291/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://ktsportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:tanoosreekrosuru@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 
 ## 🌐 Coding Profiles
 
@@ -57,9 +55,10 @@
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -68,6 +67,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -77,6 +77,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend & Database
+
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
@@ -85,12 +86,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
+
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Design Tools
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
@@ -99,14 +102,30 @@
 
 ## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=Tanoosree2006&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanoosree2006&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tanoosree2006&theme=radical&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanoosree2006&theme=radical&hide_border=true&layout=compact)
 
 ---
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
+### 💭 Personal Motto
+
+> "Code with purpose, learn with curiosity, and build with passion."
+
+🚀 Turning ideas into impactful solutions, one commit at a time.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanoosree2006&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+⭐ Always Learning • Always Building • Always Improving
