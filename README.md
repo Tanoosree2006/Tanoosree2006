@@ -1,20 +1,3 @@
-Hi 👋, I'm Tanoo Sree Krosuru
-
-🚀 Computer Science Engineer | Full Stack Developer | Problem Solver
-
-I'm a Computer Science undergraduate passionate about building impactful web and mobile applications. I enjoy turning ideas into scalable, user-friendly solutions while continuously learning and exploring new technologies.
-
-💫 About Me
-
-🎓 B.Tech Computer Science & Engineering (2023–2027)
-🏆 CGPA: 9.3
-💻 Full Stack Development Enthusiast
-📱 Web & Mobile Application Developer
-🧠 Strong Foundation in Computer Science Fundamentals
-🔍 Passionate about Problem Solving and Continuous Learning
-
-
-
 # 💫 About Me:
 Hi 👋, I'm Tanoo Sree Krosuru<br><br>🚀 Computer Science Engineer | Full Stack Developer | Problem Solver<br><br>I'm a Computer Science undergraduate passionate about building impactful web and mobile applications. I enjoy turning ideas into scalable, user-friendly solutions while continuously learning and exploring new technologies.<br><br>💫 About Me<br><br>🎓 B.Tech Computer Science & Engineering (2023–2027)<br>🏆 CGPA: 9.3<br>💻 Full Stack Development Enthusiast<br>📱 Web & Mobile Application Developer<br>🧠 Strong Foundation in Computer Science Fundamentals<br>🔍 Passionate about Problem Solving and Continuous Learning
 
