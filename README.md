@@ -59,11 +59,6 @@ I'm a Computer Science undergraduate passionate about building impactful web and
 
 ---
 
-### 💭 Personal Motto
+### ✍️ Random Dev Quote
 
-> **"Code with purpose, learn with curiosity, and build with passion."**
-
-🚀 Turning ideas into impactful solutions, one commit at a time.
-
----
-⭐ Always learning • Always building • Always improving
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
