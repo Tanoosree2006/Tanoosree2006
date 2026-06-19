@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanoo Sree Krosuru</h1>
+<h1 align="center">Hi 👋, I'm Tanoo sree Krosuru</h1>
 <h3 align="center">🚀 Computer Science Engineer | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
