@@ -1,41 +1,174 @@
-<h1 align="center">Hi 👋, I'm Tanoo sree Krosuru</h1>
-<h3 align="center">🚀 Computer Science Engineer | Full Stack Developer | Problem Solver</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Tanoo%20Sree%20Krosuru&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Tanoo Sree Krosuru</h1>
+
+<h3 align="center">
+Computer Science Engineering Student • Full Stack Developer • AI Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanoo-sree-krosuru-137066291/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://ktsportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  
-  <a href="https://drive.google.com/file/d/1nhVX3dpjrF1BJWVq0UHNCO5Gq_hxRA4C/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+Application+Developer;React+%7C+Node.js+%7C+MongoDB;React+Native+Learner;Problem+Solver+%7C+Continuous+Learner"/>
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tanoo-sree-krosuru-137066291/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ktsportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1nhVX3dpjrF1BJWVq0UHNCO5Gq_hxRA4C/view">
+<img src="https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-🎓 B.Tech Computer Science & Engineering (2023–2027)  
-🏆 CGPA: 9.3  
-💻 Full Stack Development Enthusiast  
-📱 Web & Mobile Application Developer  
-🧠 Strong Foundation in Data Structures, Algorithms, OOP, DBMS, Operating Systems & Computer Networks  
-🔍 Passionate about Problem Solving and Continuous Learning  
+🎓 B.Tech Computer Science & Engineering (2023 – 2027)
 
-🌱 Currently learning **Advanced React, React Native & System Design**  
-🚀 Building impactful web and mobile applications  
-💡 Love turning ideas into scalable and user-friendly solutions  
-⚡ Always learning, building, and improving
+🏫 Aditya Engineering College
+
+🏆 CGPA **9.3**
+
+💻 Full Stack Developer passionate about building modern, responsive and scalable web applications.
+
+🤖 AI enthusiast with experience in building LLM-powered applications and machine learning based projects.
+
+🧠 Strong understanding of
+
+- Data Structures & Algorithms
+- Object Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
+
+🚀 Interested in
+
+- Software Development
+- Full Stack Engineering
+- Artificial Intelligence
+- Backend Development
+- System Design
 
 ---
 
-## 🌐 Coding Profiles
+# 🚀 Current Focus
+
+- 🌱 Mastering Advanced React.js
+- 📱 Learning React Native
+- 🤖 Building AI Powered Applications
+- 🧠 Solving Data Structures & Algorithms
+- 🐳 Exploring Docker
+- 🏗 Learning System Design
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+- Ollama
+- Llama 3.2
+- Prompt Engineering
+- TF-IDF
+- Cosine Similarity
+- Scikit-Learn
+- AI Chatbots
+
+---
+
+## 🛠 Tools & Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=vercel"/>
+
+</p>
+
+---
+
+# 🌐 Coding Profiles
 
 <p align="left">
+
 <a href="https://leetcode.com/u/tanoosreekrosuru/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
@@ -51,69 +184,191 @@
 <a href="https://www.hackerrank.com/profile/tanoosreekrosuru">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Featured Projects
 
-### Languages
+<table>
+<tr>
+<td width="50%">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🌱 EcoVANA – AI Powered Home Gardening Platform
 
-### Frontend
+A modern home gardening platform that helps users explore plants, receive AI-powered gardening assistance, and discover nearby nurseries.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### ✨ Features
 
-### Backend & Database
+- 🤖 AI Gardening Chatbot
+- 🌿 Home Gardening Guidance
+- 🔍 Smart Plant Search
+- 📍 Nearby Nursery Finder
+- 📱 Fully Responsive Design
+- 🌎 Modern & User Friendly Interface
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🛠 Tech Stack
 
-### Tools & Technologies
+`HTML5` `CSS3` `JavaScript` `REST APIs` `AI Chatbot` `Git` `GitHub`
 
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</td>
 
-### Design Tools
+<td width="50%">
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+## 🌐 Personal Portfolio
+
+A modern portfolio website showcasing my projects, technical skills, certifications, and achievements.
+
+### ✨ Features
+
+- 💼 Professional Portfolio
+- 📂 Project Showcase
+- 📄 Resume Download
+- 📱 Responsive UI
+- 📬 Contact Section
+
+### 🛠 Tech Stack
+
+`React.js`
+`Vite`
+`Tailwind CSS`
+`JavaScript`
+`Vercel`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+<table>
+<tr>
+<td width="50%">
 
+## 💬 Offline Customer Support Chatbot
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanoosree2006&theme=radical&hide_border=true&layout=compact)
+An offline AI-powered customer support assistant built using Ollama and Llama 3.2 without relying on external APIs.
+
+### ✨ Features
+
+- 🤖 Offline AI Chatbot
+- 🧠 Local LLM Inference
+- 🔒 Privacy Focused
+- ⚡ Fast Responses
+- 💡 Prompt Engineering
+
+### 🛠 Tech Stack
+
+`Python`
+
+`Ollama`
+
+`Llama 3.2`
+
+`Prompt Engineering`
+
+</td>
+
+<td width="50%">
+
+## 🤖 AI Plagiarism Checker
+
+A machine learning powered plagiarism detection application capable of comparing documents and generating similarity scores.
+
+### ✨ Features
+
+- 📄 TXT Support
+- 📄 PDF Support
+- 📄 DOCX Support
+- 📊 Similarity Score
+- 🔍 Duplicate Detection
+
+### 🛠 Tech Stack
+
+`Python`
+
+`Flask`
+
+`Scikit-Learn`
+
+`TF-IDF`
+
+`Cosine Similarity`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✍️ Dev Quote
+# 💼 Internship
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Full Stack Developer Intern
+
+**Technical Hub**
+
+📅 **May 2025 – June 2025**
+
+### Responsibilities
+
+- 💻 Developed Full Stack Web Applications using React.js and Node.js
+- ⚙️ Built REST APIs and integrated frontend with backend
+- 🗄️ Designed and optimized MySQL databases
+- 🧪 Tested APIs using Postman
+- 🚀 Improved backend performance and application reliability
+
+---
+
+# 🏆 Certifications
+
+- 🥇 MongoDB Associate Developer Certification
+
+- ☕ Oracle Java Global Certification
+
+- 🌐 IT Specialist Certification – HTML, CSS & JavaScript
+
+- 💻 Cisco Certifications
+  - C Programming
+  - C++
+  - Operating Systems
+
+- 🐍 HackerRank Python Certification
+
+- 🗄️ HackerRank SQL Certification
+
+---
+
+# 💬 Developer Quote
+
+> **"Code with curiosity, build with purpose, and never stop learning."** 🚀
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanoosree2006&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Tanoosree2006&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+
+Let's connect and build something amazing together! 🚀
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tanoo-sree-krosuru-137066291/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://ktsportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
