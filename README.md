@@ -28,7 +28,7 @@
 
 🌱 Currently learning **Advanced React, React Native & System Design**  
 🚀 Building impactful web and mobile applications  
-🤖 Passionate about building AI-powered applications using LLMs and modern web technologies.
+🤖 Passionate about building AI-powered applications using LLMs and modern web technologies.<br>
 💡 Exploring the intersection of Artificial Intelligence and Full Stack Development to create practical, real-world solutions.
 
 
