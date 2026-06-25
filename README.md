@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Tanoo%20Sree%20Krosuru&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Tanoo Sree Krosuru</h1>
 
 <h3 align="center">
