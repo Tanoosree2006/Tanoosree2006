@@ -20,6 +20,12 @@
   </a>
 </p>
 
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:tanoosreekrosuru@gmail.com">tanoosreekrosuru@gmail.com</a> &nbsp; | &nbsp;
+  📱 <b>Phone:</b> +91 XXXXX XXXXX &nbsp; | &nbsp;
+  📍 <b>Location:</b> Andhra Pradesh, India
+</p>
+
 ---
 
 ## 💫 About Me
