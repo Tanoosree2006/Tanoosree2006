@@ -2,6 +2,11 @@
 <h3 align="center">🚀 Computer Science Engineer | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+Application+Developer;React+%7C+Node.js+%7C+MongoDB;React+Native+Learner;Always+Learning+New+Things"/>
+</p>
+
+
+<p align="center">
   <a href="https://www.linkedin.com/in/tanoo-sree-krosuru-137066291/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
